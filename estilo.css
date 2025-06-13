@@ -1,0 +1,53 @@
+h1 {
+  color: rgb(6, 2, 39);
+  background-color: hsla(219, 69%, 49%, 0.322);
+    text-align: center;
+    font-family: 'georgia', Courier, monospace;
+    font-size: 60px;
+}
+body {
+    background-color: rgba(0, 197, 247, 0.473);
+}
+p {
+        font-size: 18px;
+        text-align: justify;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.linha {
+        margin-bottom: 15px;
+        font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif; 
+}
+.pintura {
+        border-radius: 20px;
+        border-style: double;
+}
+.tabela {
+        border-collapse: collapse;
+        border-radius: 20px;
+        font-family: 'Segoe UI', sans-serif;
+        box-shadow: 6 10px 12px rgba(0, 0, 0, 0.1);
+        margin: 40px auto;
+        width: 30%;
+        border: 4px solid hsla(219, 69%, 49%, 0.322);
+        font-size: 18px;
+}
+th, td{
+     border: 3px solid hsla(219, 69%, 49%, 0.322);
+       padding: 12px;
+}
+
+a {
+        color: #1702ff;
+        text-decoration: none;
+        transition: color 0.3s ease;
+}
+
+a:hover {
+        color:brown;
+}
+
+ h2 {
+     color: rgba(4, 4, 54, 0.884);
+     background-color: #0978df60; 
+
+}
